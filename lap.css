@@ -1,0 +1,8 @@
+.btn--one {
+  height: 40px;
+  width: 79px;
+  background-color: black;
+  border-radius: 100px;
+  color: white;
+  text-transform: capitalize;
+}
